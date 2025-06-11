@@ -1,0 +1,24 @@
+{
+  "repository": "cv.thefoldwithin.earth",
+  "canonical_url": "https://remember.thefoldwithin.earth/mrhavens/cv.thefoldwithin.earth",
+  "remotes": [
+    "https://github.com/mrhavens/cv.thefoldwithin.earth",
+    "https://gitlab.com/mrhavens/cv.thefoldwithin.earth",
+    "https://bitbucket.org/thefoldwithin/cv.thefoldwithin.earth",
+    "https://remember.thefoldwithin.earth/mrhavens/cv.thefoldwithin.earth",
+    "https://codeberg.org/mrhavens/cv.thefoldwithin.earth",
+    "https://gitea.com/mrhavens/cv.thefoldwithin.earth",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "radicle": {
+    "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
+    "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
+  },
+  "commit": "ef7d131",
+  "tree_hash": "daf0ce4485839c6c62373c454126ede7595901ec",
+  "timestamp": "2025-06-11T22:19:33Z",
+  "synced_cycles": 0,
+  "gpg_signatures": [
+
+  ]
+}
